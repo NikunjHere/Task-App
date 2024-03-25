@@ -12,7 +12,7 @@
     padding: 10px;
 }
 
-.todo-app{
+.task-app{
     width: 100%;
     max-width: 540px;
     background: white;
@@ -21,7 +21,7 @@
     border-radius: 10px;
 }
 
-.todo-app h2{
+.task-app h2{
     display: flex;
     align-items: center;
     margin-bottom: 20px;
