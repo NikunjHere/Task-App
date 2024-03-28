@@ -1,4 +1,4 @@
-**Task Web App**
+**Task Web App**\n
 The Task Scheduler is a simple web application for managing tasks. Users can add tasks, set their priority levels, and specify deadlines. Completed tasks can be marked as done.
 
 Technologies Used
