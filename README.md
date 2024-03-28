@@ -17,6 +17,7 @@ JavaScript: Implements the application logic.
 **• Getting Started**
 
 **1)** Clone this repository to your local machine.
+
 **2)** Open index.html and run it in your browser.
 
 **• Contributing**
