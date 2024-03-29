@@ -1,25 +1,24 @@
-**• Task Web App**
+# Task App
 
-The Task App is a simple web application for managing tasks. Users can add and delete the task.
+This is a simple **Task App** built using **HTML**, **CSS**, and **JavaScript**. It allows users to manage their tasks efficiently.
 
-**• Technologies Used**
+## Features
 
-HTML: Provides the structure of the web application.
+- Add new tasks.
+- Mark tasks as completed.
+- Delete tasks.
 
-CSS: Handles styling and layout.
+## Usage
 
-JavaScript: Implements the application logic.
+1. Open `index.html` in your web browser.
+2. You'll see a clean interface with an input field to add new tasks.
+3. Enter the task and then click the "Add Task" button.
+4. Your task will appear in the list below.
+5. To mark a task as completed, just click over the task once and it will be a strikethrough the task marking it as completed.
+6. To delete a task, click the delete icon next to it.
 
-**• Features**
+## File Structure
 
-**•** Add and Delete the tasks.
-
-**• Getting Started**
-
-**1)** Clone this repository to your local machine.
-
-**2)** Open index.html and run it in your browser.
-
-**• Contributing**
-
-**-** Contributions are welcome! If you find any issues or have something that can improve this project then feel free to create a pull request and upgrade this project.
+- `index.html`: Main HTML file containing the app structure.
+- `styles.css`: CSS file for styling the app.
+- `script.js`: JavaScript file handling task functionality.
